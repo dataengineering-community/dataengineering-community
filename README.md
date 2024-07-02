@@ -6,3 +6,4 @@ Stay informed about upcoming events, webinars, workshops, and industry news.
 Engage in discussions, ask questions, and contribute to the collective knowledge of our community.
 
 Join Data Engineering Community today and be part of a dynamic and thriving community passionate about shaping the future of data engineering.
+Use this link to join https://linktr.ee/data_engineering_community
